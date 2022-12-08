@@ -12,5 +12,7 @@ if(availableBalance ==0){
   
   
   }
-
+else {
+  print ("good")
+    }
 return 0;
