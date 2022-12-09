@@ -7,7 +7,7 @@ int main{
   cin>>userID;
 if(availableBalance ==0){
   cout<<"not valid";
-
+for(int i=1; i<=userID; i++)
   
   
   
