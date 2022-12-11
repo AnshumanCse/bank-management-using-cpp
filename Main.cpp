@@ -17,5 +17,6 @@ for(int i=1; i<=userID; i++)
   }
 else {
   print ("good")
+    print (it is not good)
     }
 return 0;
