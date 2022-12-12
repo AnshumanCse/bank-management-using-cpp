@@ -19,4 +19,8 @@ else {
   print ("good")
     print (it is not good)
     }
+    
+    else if (account>=main)
+
+
 return 0;
