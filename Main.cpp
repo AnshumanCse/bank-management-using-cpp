@@ -21,6 +21,6 @@ else {
     }
     
     else if (account>=main)
-
+(good)
 
 return 0;
