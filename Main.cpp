@@ -22,5 +22,6 @@ else {
     
     else if (account>=main)
 (good)
+      it completed
 
 return 0;
