@@ -33,4 +33,8 @@ return 0;
   
   
   
-  int val
+  int val;
+  bool true;
+  
+  
+  return 0;
