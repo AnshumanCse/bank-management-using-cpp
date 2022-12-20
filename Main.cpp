@@ -29,7 +29,8 @@ return 0;
   if (n= true){}
 
   
-  create function;
+int var;
+  float 5.9;
   
   
   
