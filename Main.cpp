@@ -36,7 +36,7 @@ int var;
   
   int val;
   bool true;
-  for(){
+  for(val!=true){
     
-  
+  }
   return 0;
