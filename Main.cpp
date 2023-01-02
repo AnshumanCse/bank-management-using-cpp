@@ -36,7 +36,7 @@ int var;
   
   int val;
   bool true;
-  for(val!=true){
+  for(val!=false){
     cout<<"error";
     if(val<==false
 
