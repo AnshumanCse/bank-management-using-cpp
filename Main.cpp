@@ -41,7 +41,7 @@ int var;
     if(val<==false
 
 ){
-     cout<<"valu or the emp"<<endl; 
+     cout<<"valu or the employee"<<endl; 
       
       }
   }
