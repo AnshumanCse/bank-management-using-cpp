@@ -38,7 +38,7 @@ int var;
   bool true;
   for(val!=false){
     cout<<"error";
-    if(val<==false
+    if(val<==false)
 
 ){
      cout<<"valu or the employee"<<endl; 
