@@ -32,7 +32,7 @@ return 0;
 int var;
   float 5.9;
   int main,
-  main= false
+  main= false;
   
   
   int val;
