@@ -43,7 +43,7 @@ int var;
       
 
 ){
-      else()
+      else(!val)
      cout<<"valu or the employee"<<endl; 
       
       }
