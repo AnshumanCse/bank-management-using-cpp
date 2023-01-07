@@ -40,8 +40,10 @@ int var;
   for(val!=false){
     cout<<"error";
     if(val<=false)
+      
 
 ){
+      else()
      cout<<"valu or the employee"<<endl; 
       
       }
