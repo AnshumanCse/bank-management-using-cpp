@@ -30,7 +30,7 @@ return 0;
 
   
 int var;
-  float 5.9;
+  float 5.9, 5;
   int main,
   main= false;
   
