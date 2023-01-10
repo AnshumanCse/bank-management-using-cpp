@@ -27,7 +27,7 @@ else {
 return 0;
 ******
   if (n= true){
-  cout<<""
+  cout<<"error"
   }
 
   
