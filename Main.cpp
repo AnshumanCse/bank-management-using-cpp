@@ -26,7 +26,9 @@ else {
 
 return 0;
 ******
-  if (n= true){}
+  if (n= true){
+  cout<<""
+  }
 
   
 int var;
